@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "17184703455",
+    "project_id": "covid-detection-9f13c",
+    "storage_bucket": "covid-detection-9f13c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17184703455:android:91582e2c1715eb65557a6a",
+        "android_client_info": {
+          "package_name": "com.example.coviddetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17184703455-ipbda9rsr34k2ffp49kslc538j26u5cl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMB-cToLD79dPpnAveuytL6CdlMDBjz7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17184703455-ipbda9rsr34k2ffp49kslc538j26u5cl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
